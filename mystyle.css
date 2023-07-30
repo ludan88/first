@@ -1,0 +1,69 @@
+/* #im{
+    background:url("1.jpg") no-repeat center center  ;
+    background-size: cover;
+
+    width: 1600px;
+    height: 450px;
+} */
+.title{
+    position: relative;
+    top: 70px;
+    color: #fff;
+    /* style=" margin-top: 70px; color: aliceblue;"  */
+}
+.section1{
+    background-color:#333;
+    height: 300px;
+}
+.section2{
+
+   
+    position:relative;
+    bottom: 20px;
+}
+
+.section3{
+  
+    background-color: #f8f8f8;
+}
+.card2{
+    height: 200px;
+    border: #01c0706e solid ;
+   
+}
+.card1{
+    height: 170px;
+    border:  #606c672c solid ;
+   
+}
+.section4{
+    height: 70%;
+    background-color: #f8f8f84d;
+}
+.card4{
+    position: relative;
+    bottom: 70px;
+    left: 80px;
+    border-left: solid #01c070;
+    height: 120px;
+    border-radius: 7px;
+ 
+}
+.section5{
+    background:url("img/7.jpg") no-repeat center center  ;
+    background-size: cover;
+
+    width: 100%;
+    height: 40%;
+
+}
+.layer{
+    background-color: #3333339e;
+    width: 100%;
+    height: 100%;
+
+}
+.title2{
+    position: relative;
+    top: 70px;
+}

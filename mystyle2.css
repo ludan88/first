@@ -1,0 +1,17 @@
+.dm-hero-section{
+
+width: 100%;
+height: 600px;
+background-image: url(3.jpg) ;
+background-size: cover;
+
+
+
+}
+.div{
+    position:absolute;
+top: 150px;
+    left: 200px;
+ background-color: rgba(24, 19, 19, 0.601);
+ height: 230px;
+}
